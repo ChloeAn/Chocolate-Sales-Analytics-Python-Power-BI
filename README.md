@@ -1,6 +1,7 @@
 # Chocolate-Sales-Analytics-Python-Power-BI
 End-to-end sales analytics project using Python (Pandas) for data cleaning and Power BI for interactive dashboard reporting.
-Data source: Kaggle
+Data source: Kaggle 
+License: CC BY-SA 4.0
 Website link: https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales/data
 Icons8: https://icons8.com/icons/set/person
 
