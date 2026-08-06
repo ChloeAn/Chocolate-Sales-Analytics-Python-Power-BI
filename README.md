@@ -78,3 +78,7 @@ This dashboard was designed to answer the following questions:
 - Include profit and margin analysis
 - Connect to a SQL database instead of CSV
 - Implement automated refresh using Python
+
+## Disclaimer
+This is an independent portfolio project created using publicly available data.
+It is not associated with or based on any work, data, systems or intellectual property from my employer.
